@@ -29,7 +29,7 @@ class Skills extends Desenvolvedor {
 
 
 **Plataforma de ensino** \
-[**CursoEmVídeo**](https://www.cursoemvideo.com/) • 200hrs \
+[**CursoEmVídeo**](https://www.cursoemvideo.com/) • 40hrs \
 Linguagens & Tecnologias: `HTML5`, `CSS`,\
 Projetos em destaque: [Android](https://p4ndda.github.io/SiteAndroid/), [Cordel](https://p4ndda.github.io/CordelMordeno/)
 
