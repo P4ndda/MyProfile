@@ -23,7 +23,7 @@ class Skills extends Desenvolvedor {
   
   <a href="https://instagram.com/pedroo_agst" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/96143899/152898105-e957f0d5-c6b2-4c4a-af31-2bb47cbecb74.png" target="_blank"></a>
 
-  ## Cursos feitos
+  ## Meus cursos 
 
 <img align="left" height="94px" width="94px" src="https://user-images.githubusercontent.com/96143899/185503893-fd098d81-b16d-426a-954b-1fdb5ecbc127.jpg"></img>
 
@@ -33,10 +33,14 @@ class Skills extends Desenvolvedor {
 Linguagens & Tecnologias: `HTML5`, `CSS`,\
 Projetos em destaque: [Android](https://p4ndda.github.io/SiteAndroid/), [Cordel](https://p4ndda.github.io/CordelMordeno/)
 
+<img align="left" height="103px" width="102px" src="https://user-images.githubusercontent.com/96143899/189787246-5fcdd674-11be-4923-8fe9-a2df05eb8a6a.png"></img>
 
-  
-  
-  
+**Curso na Udemy** \
+[**JavaScript Ninja**](https://www.udemy.com/course/curso-javascript-ninja/) • 42,5hrs \
+Linguagens & Tecnologias: `NODE.JS`, `JS`,\
+Projetos em destaque: [...]
+
+
   
   
 
