@@ -31,14 +31,14 @@ class Skills extends Desenvolvedor {
 **Plataforma de ensino** \
 [**CursoEmVídeo**](https://www.cursoemvideo.com/) • 40hrs \
 Linguagens & Tecnologias: `HTML5`, `CSS`,\
-Projetos em destaque: [Android](https://p4ndda.github.io/SiteAndroid/), [Cordel](https://p4ndda.github.io/CordelMordeno/)
+Projetos em destaque: [Android](https://p4ndda.github.io/SiteAndroid/), [LoginPicpay](https://p4ndda.github.io/loginPicPay/)
 
 <img align="left" height="103px" width="102px" src="https://user-images.githubusercontent.com/96143899/189787246-5fcdd674-11be-4923-8fe9-a2df05eb8a6a.png"></img>
 
 **Curso na Udemy** \
 [**JavaScript Ninja**](https://www.udemy.com/course/curso-javascript-ninja/) • 42,5hrs \
 Linguagens & Tecnologias: `NODE.JS`, `JS`,\
-Projetos em destaque: [...]
+Projetos em destaque: [Challengers](https://github.com/P4ndda/javascriptNinja-Challengers)
 
 
   
